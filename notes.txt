@@ -1,0 +1,12 @@
+// Http is stateless which mean it will not remember anything about previous transaction
+
+// HTTP Code
+
+// 200 - ok
+// 201 - ok and created
+// 301 - MOved to new URL
+// 304 - Not modified (Cache Version)
+// 400 - Bad request
+// 401 - Unauthorized
+// 404 - Not found
+// 500 - Internal server error
